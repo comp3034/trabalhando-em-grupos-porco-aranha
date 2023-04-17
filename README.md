@@ -6,3 +6,4 @@ Paraná, Parar, Parceiro, Parcela, Páreo, Parente, Parque, Parte, Partida, Part
 Passear, Passo, Passos, Pasta, Pastel, Pasteurizado, Pata, Pátio, Patins, Pato, Patrocínio, Patrono, Patrulha, Paulista, Pauperismo, Pavilhão, Pavimento, Pavio, Pazinha, 
 Peça, Pecado, Peculiar, Pedágio, Pedal, Pedestre, Pedir, Pedra, Pedregoso, Pedreira, Pedúnculo, Pega, Pegar, Pegajoso, Peito, Peituda, Peixe, Pele, Peleja, Película, 
 Pelota, Pelourinho, Peludo, Pena, Penal.
+ oq eu faço da minha vida?
