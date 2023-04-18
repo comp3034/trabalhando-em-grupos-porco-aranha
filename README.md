@@ -7,3 +7,8 @@ Passear, Passo, Passos, Pasta, Pastel, Pasteurizado, Pata, Pátio, Patins, Pato,
 Peça, Pecado, Peculiar, Pedágio, Pedal, Pedestre, Pedir, Pedra, Pedregoso, Pedreira, Pedúnculo, Pega, Pegar, Pegajoso, Peito, Peituda, Peixe, Pele, Peleja, Película, 
 Pelota, Pelourinho, Peludo, Pena, Penal.
  oq eu faço da minha vida?
+
+ //Alteração Rafael
+ # Muitas palavras
+ ## Palavras até demais
+ ### _Muitas palavras.__
