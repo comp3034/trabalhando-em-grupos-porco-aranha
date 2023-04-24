@@ -13,8 +13,3 @@ Pouco glamour tem a batata,
 Mas seu valor é inestimável,
 De alimento básico a iguaria,
 Sem ela, nossa culinária seria incapaz.
-
-Ah, batata, tão modesta e discreta,
-Deixas sua marca na nossa mesa,
-Fazendo-nos sentir completa,
-Satisfazendo-nos, com certeza.
